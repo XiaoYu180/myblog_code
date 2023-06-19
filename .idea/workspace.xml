@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a62a132b-028c-4ecc-a8e5-423391634090" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/my_blog" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/my_blog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/08.java知识集锦/03.基础技巧/05.java常用技巧.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/08.java知识集锦/03.基础技巧/05.java常用技巧.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/08.java知识集锦/01.常用工具类/05.实现定时任务数据库配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/08.java知识集锦/01.常用工具类/05.实现定时任务数据库配置.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,19 +24,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +45,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686280612133</updated>
-      <workItem from="1686280618908" duration="5138000" />
+      <workItem from="1686280618908" duration="5888000" />
+      <workItem from="1686570332809" duration="2428000" />
+      <workItem from="1687142639048" duration="1415000" />
     </task>
     <servers />
   </component>
